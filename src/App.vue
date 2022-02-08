@@ -1,13 +1,13 @@
 <template>
-  <div class="container d-flex flex-column">
-    <h2 class="text-center">
+  <div class="container d-flex flex-column align-items-center">
+    <h2>
       <span class="text-danger"><i class="far fa-heart"></i></span>
       {{ msg }}
       <span class="text-danger"><i class="far fa-heart"></i></span>
     </h2>
     <img src="@/assets/logo.svg" alt="Vue logo" height="100" />
+    <SayHello name="Robert"></SayHello>
   </div>
-  <SayHello name="Robert"></SayHello>
 </template>
 
 <script setup>
