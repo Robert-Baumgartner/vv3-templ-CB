@@ -17,5 +17,4 @@ const msg = 'Willkommen!';
 </script>
 
 <style>
-@import '@/assets/bootstrap.min.css';
 </style>
