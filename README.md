@@ -2,7 +2,10 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
-npx degit robert-baumgartner/vv3-template-CB you-project
+Usage:
+```
+npx degit robert-baumgartner/vv3-template-CB your-project
+```
 
 ## Recommended IDE Setup
 
