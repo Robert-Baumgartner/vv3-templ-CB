@@ -14,7 +14,7 @@
 import SayHello from '@/components/SayHello.vue';
 
 const msg = 'Willkommen!';
+
 </script>
 
-<style>
-</style>
+<style></style>
